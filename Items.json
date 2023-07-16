@@ -1,0 +1,56 @@
+[
+  {
+    "ru_title": "Набор кристаллов 1",
+    "en_title": "Gems pack 1",
+    "photo_url": "",
+    "item_id": "gempack1",
+    "price": 1,
+    "discount": 0,
+    "expiration": 3600
+  },
+  {
+    "ru_title": "Набор кристаллов 2",
+    "en_title": "Gems pack 2",
+    "photo_url": "",
+    "item_id": "gempack2",
+    "price": 2,
+    "discount": 0,
+    "expiration": 3600
+  },
+  {
+    "ru_title": "Набор кристаллов 3",
+    "en_title": "Gems pack 3",
+    "photo_url": "",
+    "item_id": "gempack3",
+    "price": 3,
+    "discount": 0,
+    "expiration": 3600
+  },
+  {
+    "ru_title": "Набор кристаллов 4",
+    "en_title": "Gems pack 4",
+    "photo_url": "",
+    "item_id": "gempack4",
+    "price": 4,
+    "discount": 0,
+    "expiration": 3600
+  },
+  {
+    "ru_title": "Набор кристаллов 5",
+    "en_title": "Gems pack 5",
+    "photo_url": "",
+    "item_id": "gempack5",
+    "price": 5,
+    "discount": 0,
+    "expiration": 3600
+  },
+  {
+    "ru_title": "Набор кристаллов 6",
+    "en_title": "Gems pack 6",
+    "photo_url": "",
+    "item_id": "gempack6",
+    "price": 6,
+    "discount": 0,
+    "expiration": 3600
+  }
+]
