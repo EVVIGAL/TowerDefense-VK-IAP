@@ -52,59 +52,5 @@
     "price": 6,
     "discount": 0,
     "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 1",
-    "en_title": "Coin pack 1",
-    "photo_url": "",
-    "item_id": "coinpack1",
-    "price": 1,
-    "discount": 0,
-    "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 2",
-    "en_title": "Coin pack 2",
-    "photo_url": "",
-    "item_id": "coinpack2",
-    "price": 2,
-    "discount": 0,
-    "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 3",
-    "en_title": "Coin pack 3",
-    "photo_url": "",
-    "item_id": "coinpack3",
-    "price": 3,
-    "discount": 0,
-    "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 4",
-    "en_title": "Coin pack 4",
-    "photo_url": "",
-    "item_id": "coinpack4",
-    "price": 4,
-    "discount": 0,
-    "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 5",
-    "en_title": "Coin pack 5",
-    "photo_url": "",
-    "item_id": "coinpack5",
-    "price": 5,
-    "discount": 0,
-    "expiration": 3600
-  },
-  {
-    "ru_title": "Набор монет 6",
-    "en_title": "Coin pack 6",
-    "photo_url": "",
-    "item_id": "coinpack6",
-    "price": 6,
-    "discount": 0,
-    "expiration": 3600
   }
 ]
